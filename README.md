@@ -1,6 +1,6 @@
 QRShield
 OPCODE IMPACT 2026 | Hackathon Submission
-Team ID: [Enter Team ID]
+Team ID: [OPC025]
 QRShield is a privacy-conscious prototype that analyses QR-code contents and URLs for suspicious characteristics before the user visits the destination. It provides explainable findings rather than treating a single warning sign as proof of a scam.
 Project status: Initial prototype. External threat-intelligence verification and reliability testing are planned future improvements. A "No obvious risk detected" result does not guarantee that a URL is safe.
 1. Problem Statement
