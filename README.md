@@ -85,9 +85,10 @@ Improve domain-impersonation detection and URL normalisation.
 Add automated tests for QR decoding, malformed URLs, and edge cases.
 Improve accessibility and mobile-friendly layout.
 9. Team Contributions
-Update this table to reflect work actually completed by each team member.
-Member Name   Contribution
-[Name 1]    [Project coordination / UI / integration] [Name 2]    [URL analysis / security rules] [Name 3]    [QR decoding / testing / documentation]
+Antit Tomy 
+Aswajith C A 
+Adithyan Vinoy 
+Abhinav Ramesh 
 10. Tools Used
 Tool / Platform                  Purpose / Why Used
 Python                           Core application logic and URL analysis
